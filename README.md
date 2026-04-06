@@ -4,7 +4,7 @@ This repository contains applied economics and business analytics tools built us
 
 ## Projects
 
-### 1. Pricing Engine
+### 1. Pricing Assistant
 - Models COGS, labor, overhead, and margins
 - Generates breakeven and optimized pricing
 
