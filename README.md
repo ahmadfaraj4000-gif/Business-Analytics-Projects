@@ -8,7 +8,7 @@ These projects focus on translating economic theory into practical decision-maki
 
 ## Projects
 
-### Pricing Engine
+### Pricing Assistant
 A Python-based pricing tool that models:
 - Cost of goods sold (COGS)
 - Labor inputs
